@@ -1,0 +1,6 @@
+Simulacao,L_s,Amplitude_A,L_sobre_tau,y_pico_exato_V,y_pico_sim_V,h0_alvo_V,Erro_Rel_pct,y_taylor_1_V,y_taylor_2_V,Classificacao
+1,32.0,0.03125,1.94560,0.05639,0.05639,0.12800,55.947,0.00348,0.08424,"Pulso Longo (Comportamento de Degrau)"
+2,8.0,0.125,0.48640,0.10136,0.10136,0.12800,20.813,0.09687,0.10192,"Transição (Pulso Moderado)"
+3,2.0,0.5,0.12160,0.12052,0.12052,0.12800,5.841,0.12022,0.12053,"Boa Aproximação do Impulso"
+4,0.25,4.0,0.01520,0.12703,0.12703,0.12800,0.756,0.12703,0.12703,"Excelente / Indistinguível do Impulso"
+5,0.0625,16.0,0.00380,0.12776,0.12776,0.12800,0.190,0.12776,0.12776,"Excelente / Indistinguível do Impulso"
